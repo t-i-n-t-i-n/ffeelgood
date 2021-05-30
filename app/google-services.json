@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320275295174",
+    "project_id": "feelgood-f7248",
+    "storage_bucket": "feelgood-f7248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320275295174:android:a50548a0227ea3eb0520c7",
+        "android_client_info": {
+          "package_name": "com.example.feelgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320275295174-r09lt765c54c00btncd6nt83rn0lak7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolevqZQ61Z5sfdpEUfejyij0GJ31WYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320275295174-r09lt765c54c00btncd6nt83rn0lak7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
